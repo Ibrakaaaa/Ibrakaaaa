@@ -1,23 +1,19 @@
-# Hi, I'm Ibrahim 👋
+Über mich
 
-I'm a Junior Web Developer based in Germany, currently working with **FirstSpirit CMS** and building my skills in modern web development.
+Frontend-Entwickler aus dem Raum München. Ich arbeite hauptsächlich mit React, Next.js und TypeScript und baue produktive Webanwendungen auf Basis von Headless-CMS-Systemen.
 
-### 🛠️ Tech Stack
+Neben der Frontend-Arbeit interessiert mich, was nach dem Merge passiert. Deshalb entwickle und betreibe ich meine eigene Full-Stack-Anwendung auf einem selbst aufgesetzten Linux-Server – mit Docker, Nginx als Reverse Proxy, HTTPS und einer CI/CD-Pipeline, die bei jedem Merge auf main automatisch deployt.
 
-* **Frontend:** JavaScript, React, HTML, CSS, Tailwind CSS
-* **Backend:** Node.js, Express.js
-* **Database:** MongoDB
-* **DevOps:** Docker, Linux, Git, GitHub Actions, Nginx
-* **Tools:** Jira, SonarCloud
+Was mich an dieser Kombination reizt: Code zu schreiben ist die eine Hälfte. Zu verstehen, wie er in Produktion tatsächlich läuft – und was passiert, wenn er es nicht tut – ist die andere.
 
-### 🚀 Featured Project
+Aktuell — Frontend- & CMS-Entwickler bei asioso GmbH
 
-**Fullstack Events App**
-A fullstack CRUD application built with React, Express.js and MongoDB, containerized with Docker and deployed with Nginx.
+Schwerpunkte — React 19 · Next.js 16 · TypeScript · Storyblok · Docker · GitHub Actions · Linux
 
-🌐 **Portfolio:** https://ibrahimmerkez.com
-💻 **GitHub:** https://github.com/Ibrakaaaa
+Lerne gerade — Terraform · AWS · Kubernetes
 
-### 📫 Contact
+📌 Projekt
 
-Feel free to check out my portfolio or connect with me on GitHub.
+portfolio-project — Full-Stack-App (React, Express, MongoDB) in Docker Compose, hinter Nginx, mit CI/CD-Pipeline und automatisiertem Deployment auf einen eigenen Server. Live unter ibrahimmerkez.com
+
+📫 i.merkez01@gmail.com · 🌐 ibrahimmerkez.com
