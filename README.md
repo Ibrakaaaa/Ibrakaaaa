@@ -1,7 +1,23 @@
-Über mich
+# Hi, I'm Ibrahim 👋
 
-Ich bin ein engagierter und selbstbeigebrachter Junior Frontend-Entwickler mit einer starken Leidenschaft für React und modernes Webdesign. Durch intensives Lernen und praktische Projekte habe ich fundierte Kenntnisse in React entwickelt und gelernt, wie man robuste, skalierbare und benutzerfreundliche Webanwendungen erstellt.
+I'm a Junior Web Developer based in Germany, currently working with **FirstSpirit CMS** and building my skills in modern web development.
 
-Meine Reise als Entwickler begann aus einem tiefen Interesse an der Webentwicklung und dem Wunsch, innovative Lösungen zu schaffen. Ich habe mir die Fähigkeiten in React und verwandten Technologien autodidaktisch angeeignet, und mein Lernwille zeigt sich in meiner kontinuierlichen Weiterentwicklung und der Umsetzung aktueller Best Practices.
+### 🛠️ Tech Stack
 
-Neben meiner technischen Expertise lege ich großen Wert auf sauberen, wartbaren Code und eine hohe Benutzerfreundlichkeit. Ich freue mich darauf, mein Wissen einzusetzen, um zum Erfolg von Projekten beizutragen und gemeinsam mit einem Team spannende Herausforderungen zu meistern.
+* **Frontend:** JavaScript, React, HTML, CSS, Tailwind CSS
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **DevOps:** Docker, Linux, Git, GitHub Actions, Nginx
+* **Tools:** Jira, SonarCloud
+
+### 🚀 Featured Project
+
+**Fullstack Events App**
+A fullstack CRUD application built with React, Express.js and MongoDB, containerized with Docker and deployed with Nginx.
+
+🌐 **Portfolio:** https://ibrahimmerkez.com
+💻 **GitHub:** https://github.com/Ibrakaaaa
+
+### 📫 Contact
+
+Feel free to check out my portfolio or connect with me on GitHub.
